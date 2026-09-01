@@ -1,6 +1,6 @@
 # SAP-C02 준비
 
-AWS Certified Solutions Architect - Professional(SAP-C02)는 어렵다고 소문이 난 시험이다.
+AWS Certified Solutions Architect - Professional(SAP-C02)는 어렵다고 소문이 난 시험이다..
 
 내 목표는 이번학기 끝나고 나서 방학때 이 시험에 합격하는 것이다!
 
